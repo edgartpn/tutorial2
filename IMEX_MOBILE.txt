@@ -21,3 +21,4 @@ Global
 	EndGlobalSection
 EndGlobal
 visual studio 
+¿en que branch estoy?
